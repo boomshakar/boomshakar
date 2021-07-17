@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oluwafemi Ṣosanya
 #### I am a front-end developer, sound tech and a teacher
-![I am a front-end developer, sound tech and a teacher](https://drive.google.com/file/d/1pc1QA8rMKt8eshA1aUwJ9blNYgjrBD6w/view)
+![I am a front-end developer, sound tech and a teacher](https://github.com/boomshakar/oluwafemishow/blob/master/headerimg.png)
 
 My experinces has challenged me to think critically and provided me with specific skills to work and survive through life within the barest means. I solve digital problems for the love of learning because I believe no amount of knowledge is enough for a man.
 
