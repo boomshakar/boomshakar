@@ -10,7 +10,7 @@
   ## Skills and Exprience
 
   - 🔭 I’m currently working on something amazing. 
-  - 🌱 I’m currently learning React JS 
+  - 🌱 I’m currently learning Next.JS 
   - 📫 How to reach me: mailto:femi_sosanya@outlook.com 
 
 
@@ -27,6 +27,11 @@
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+  ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=for-the-badge)
+  
+  ![Expressjs](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&logo=express)
+  ![Reactjs](https://img.shields.io/badge/-Reactjs-61DAFB?logoColor=white&style=for-the-badge&logo=react)
+  
 
   ### Database
 
