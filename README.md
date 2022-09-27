@@ -1,7 +1,7 @@
 ![I am a front-end developer, sound tech and a teacher](https://github.com/boomshakar/oluwafemishow/blob/master/infohead.gif)
 
   ### Hi there 👋, my name is Ṣosanya Oluwafemi
-  #### I am a front-end developer, sound tech and a teacher
+  #### I am a Front-End Engineer, Sound tech and a Teacher
   
 <div align="center">
   My experinces has challenged me to think critically and provided me with specific skills to work and survive through life within the barest means. I solve digital problems for the love of learning because I believe no amount of knowledge is enough for a man.
@@ -10,7 +10,7 @@
   ## Skills and Exprience
 
   - 🔭 I’m currently working on something amazing. 
-  - 🌱 I’m currently learning Next.JS 
+  - 🌱 I’m currently learning something new
   - 📫 How to reach me: mailto:femi_sosanya@outlook.com 
 
 
@@ -43,6 +43,7 @@
   ![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)
   ![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+  ![GitLab](https://img.shields.io/badge/-gitlab-181717?logo=github&logoColor=white&style=for-the-badge)
 
   ### Editors
 
