@@ -1,5 +1,7 @@
 ![I am a front-end developer, sound tech and a teacher](https://github.com/boomshakar/oluwafemishow/blob/master/infohead.gif)
 
+<img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-circle&color=red" alt=""/>
+
   ### Hi there 👋, my name is Ṣosanya Oluwafemi
   #### I am a Front-End Engineer, Sound tech and a Teacher
   
